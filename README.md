@@ -1,6 +1,7 @@
 # Python Project Manager
 
 ![](images/ppm.png)
+> [!IMPORTANT]
 > **To build ppm's needed directories you need to run `ppm build`
 
 **PPM** stands for *Python Project Manager*. **PPM** is used for managing and creating projects, as well as installing and uninstalling packages.
@@ -36,5 +37,7 @@ To share your template go to your templates folder in the source of **ppm** and 
 
 To load a template use `ppm template load <template_name>`.
  
-#### ⚠️ WARNING, USE `ppm build` BEFORE YOU RUN ANYTHING ELSE. ⚠️
+> [!IMPORTANT]
+> #### ⚠️ WARNING, USE `ppm build` BEFORE YOU RUN ANYTHING ELSE. ⚠️
+
 ###### Developed by Myfer. — Under MIT License
